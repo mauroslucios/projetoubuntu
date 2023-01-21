@@ -1,5 +1,4 @@
-# projetoubuntu - 
-## Projeto criado com intuito de treinarmos as tecnologias abaixo
+## Projetoubuntu - Projeto criado com intuito de treinarmos as tecnologias abaixo
 ### Tecnologias usadas
 - java
 - nodejs
